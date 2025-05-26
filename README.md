@@ -45,7 +45,8 @@ Girintiye dayalı yapı tanıma (INDENT / DEDENT tokenları).
 
 ## 💻 Ekran Görüntüsü
 
-![screenshot](https://example.com/gorsel.png) <!-- Gerçek ekran görüntüsü linkiyle değiştir -->
+![Ekran görüntüsü 2025-05-26 200854](https://github.com/user-attachments/assets/6acbca3f-8c10-45be-9244-381daaa5f2a4)
+
 
 ---
 
@@ -124,7 +125,7 @@ python gui.py
 
 ## 📽️ Demo
 
-🎬 [Demo Videosunu İzle](https://example.com/video)
+🎬 [Demo Videosunu İzle](https://www.youtube.com/watch?v=4dztHVLFQJ8)
 
 ---
 
