@@ -131,6 +131,6 @@ python gui.py
 
 ## 📘 Detaylı Makale
 
-📄 [Teknik Makaleye Git](https://example.com/makale)
+📄 [Teknik Makaleye Git](https://github.com/demirbas1436/LexaParse/blob/main/GUI%20Tabanl%C4%B1%20Python-Benzeri%20Kod%20D%C3%BCzenleyici_%20Teknik%20Belgeleme.docx)
 
 ---
